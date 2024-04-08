@@ -1,0 +1,33 @@
+{
+	"folders": [
+		{
+			"path": "../Documents/EECS 388/PlatformIO/lab02"
+		},
+		{
+			"name": "lab03",
+			"path": "../Documents/EECS 388/lab03"
+		},
+		{
+			"name": "lab04",
+			"path": "../Documents/EECS 388/lab04"
+		},
+		{
+			"name": "lab05",
+			"path": "../Documents/EECS 388/lab05"
+		},
+		{
+			"name": "lab06",
+			"path": "../Documents/EECS 388/lab06"
+		},
+		{
+			"name": "lab09",
+			"path": "../Documents/EECS 388/lab09"
+		}
+	],
+	"settings": {
+		"terminal.integrated.env.windows": {
+			"PATH": "C:\\Users\\heechul\\.platformio\\penv\\Scripts;C:\\Users\\heechul\\.platformio\\penv;C:\\Program Files\\Dell\\DW WLAN Card;C:\\WINDOWS\\system32;C:\\WINDOWS;C:\\WINDOWS\\System32\\Wbem;C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\;C:\\Program Files\\WIDCOMM\\Bluetooth Software\\;C:\\Program Files\\WIDCOMM\\Bluetooth Software\\syswow64;C:\\Matlab2016a\\runtime\\win64;C:\\Matlab2016a\\bin;C:\\Program Files\\MiKTeX 2.9\\miktex\\bin\\x64\\;C:\\Program Files\\Git\\cmd;C:\\WINDOWS\\System32\\OpenSSH\\;C:\\Program Files (x86)\\Intel\\Intel(R) Management Engine Components\\DAL;C:\\Program Files\\Intel\\Intel(R) Management Engine Components\\DAL;C:\\Users\\heechul\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Users\\heechul\\AppData\\Local\\atom\\bin;C:\\Program Files\\emacs-25.1-x86_64-w64-mingw32\\bin;C:\\Users\\heechul\\AppData\\Local\\Microsoft\\WindowsApps;;C:\\Users\\heechul\\AppData\\Local\\Programs\\Microsoft VS Code\\bin;C:\\Program Files\\Dell\\DW WLAN Card;C:\\WINDOWS\\system32;C:\\WINDOWS;C:\\WINDOWS\\System32\\Wbem;C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\;C:\\Program Files\\WIDCOMM\\Bluetooth Software\\;C:\\Program Files\\WIDCOMM\\Bluetooth Software\\syswow64;C:\\Matlab2016a\\runtime\\win64;C:\\Matlab2016a\\bin;C:\\Program Files\\MiKTeX 2.9\\miktex\\bin\\x64\\;C:\\Program Files\\Git\\cmd;C:\\WINDOWS\\System32\\OpenSSH\\;C:\\Program Files (x86)\\Intel\\Intel(R) Management Engine Components\\DAL;C:\\Program Files\\Intel\\Intel(R) Management Engine Components\\DAL;C:\\Users\\heechul\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Users\\heechul\\AppData\\Local\\atom\\bin;C:\\Program Files\\emacs-25.1-x86_64-w64-mingw32\\bin;C:\\Users\\heechul\\AppData\\Local\\Microsoft\\WindowsApps;;C:\\Users\\heechul\\AppData\\Local\\Programs\\Microsoft VS Code\\bin",
+			"PLATFORMIO_CALLER": "vscode"
+		}
+	}
+}
